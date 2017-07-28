@@ -26,7 +26,7 @@ const BooksTable = ({ books }) =>
           <th>#</th>
           <th>Title</th>
           <th>Author</th>
-          <th>Author</th>
+          <th>Action</th>
         </tr>
       </thead>
       <tbody>
